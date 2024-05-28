@@ -1,0 +1,9 @@
+{
+  "data_dir": "/home/nicky/HU/MADS_ML_Assignment_Nicky/MADS_ML_Assignment_Nicky/data/raw/gestures/gestures-dataset",
+  "dropout": 0.14428621162804178,
+  "hidden_size": 123,
+  "input_size": 3,
+  "num_layers": 3,
+  "output_size": 20,
+  "tune_dir": "/home/nicky/HU/MADS_ML_Assignment_Nicky/MADS_ML_Assignment_Nicky/models/ray"
+}

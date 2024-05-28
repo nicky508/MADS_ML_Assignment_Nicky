@@ -1,0 +1,2 @@
+iterations,train_loss,test_loss,Accuracy,timestamp,checkpoint_dir_name,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+0,2.712867201110463,2.325012171268463,0.178125,1716919982,,False,1,7d4429c1,2024-05-28_20-13-02,8.346491575241089,8.346491575241089,2845,VRMWB-16GGJX3,192.168.163.40,8.346491575241089,1
